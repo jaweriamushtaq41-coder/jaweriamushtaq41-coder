@@ -146,7 +146,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaweriamushtaq41-coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaweriamushtaq41-coder&theme=radical&hide_border=true&background=0D1117" height="165" />
+  <img src="https://streak-stats.demolab.com?user=jaweriamushtaq41-coder&theme=radical&hide_border=true&background=0D1117" height="165" />
 </p>
 
 <p align="center">
@@ -161,9 +161,8 @@
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaweriamushtaq41-coder/jaweriamushtaq41-coder/output/github-contribution-grid-snake.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/jaweriamushtaq41-coder/jaweriamushtaq41-coder/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
-<p align="center"><sub>⚙️ Snake animation activates automatically after setup — see notes below</sub></p>
 
 <br>
 
