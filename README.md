@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:6D28D9&height=220&section=header&text=Jaweria%20Mushtaq&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20MERN%20Stack%20Enthusiast%20%7C%20E-commerce%20Specialist&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions...;Turning+ideas+into+interfaces...;Building+with+AI+%2B+MERN+Stack...;Always+learning%2C+always+growing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions...;Turning+ideas+into+interfaces...;Building+with+AI+%2B+MERN+Stack...;Digital+Marketing+%2B+E-commerce+Enthusiast...;Always+learning%2C+always+growing." alt="Typing SVG" />
 
 </div>
 
@@ -44,6 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
