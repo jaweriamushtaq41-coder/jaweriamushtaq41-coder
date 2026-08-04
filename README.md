@@ -27,6 +27,8 @@
         🛒 Currently exploring: <b>E-commerce Development</b> — building and understanding
         online store systems end to end.
         <br><br>
+        📣 Certified in <b>Digital Marketing</b> — Done ✅
+        <br><br>
         📎 Proficient in <b>Microsoft Office</b> (Word, Excel, PowerPoint) — Done ✅
         <br><br>
         📫 <b>jaweriamushtaq41@gmail.com</b>
@@ -69,6 +71,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/E--commerce-FF9900?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-E1306C?style=for-the-badge&logo=googleads&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
