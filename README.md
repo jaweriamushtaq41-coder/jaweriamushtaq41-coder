@@ -140,16 +140,6 @@
 <h3 align="center">🤝 Open To</h3>
 <p align="center">Internships • Freelance Projects • Open-Source Collaborations</p>
 
-<br>
-
-
-<br>
-
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="mailto:jaweriamushtaq41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:1E3A8A&height=120&section=footer" width="100%" />
 
 <p align="center"><i>✨ Keep Coding • Keep Growing ✨</i></p>
